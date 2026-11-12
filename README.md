@@ -2,13 +2,9 @@
 
 # Hi, I'm Eszter 👋
 
-`Fullstack dev. Climber. Dog person. Always planning my next trip.`
-
 ## 🌱 About me
 
 Fullstack developer finishing my BSc in Computer Science Engineering (University of Miskolc, 2027). I work as a software development intern at Shiwaforce, and I enjoy databases, AI integrations and building user interfaces.
-
-Outside of code: climbing 🧗, running 🏃, trips ✈️ and the local dog shelter 🐶
 
 ## 🚀 Live projects
 
